@@ -60,5 +60,5 @@ To save your model you can either go to File → Save GCode, or you can click th
 ## How to Print on Ultimaker:
 
 ### Printing:
-1 Plug SD card with .gcode file of the object
-1 Turn on Ulitmaker printer. Switch is on the back left corner.
+1. Plug SD card with .gcode file of the object
+1. Turn on Ulitmaker printer. Switch is on the back left corner.
