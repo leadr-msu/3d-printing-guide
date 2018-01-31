@@ -19,7 +19,7 @@ This option will allow you to automatically flip your object (i.e. mirror) your 
 ## Adjusting the Print File
 Within the toolbox on the left side of the screen, you are able to adjust many different options that will affect the print quality, fill, speed, and temperature. 
 
-### Quality
+### Quality:
 
 #### Layer Height (mm)
 This is the most important setting for determining the quality of your print. Normal quality prints are 0.1 mm, high quality prints are 0.06 mm. You can go up to 0.25 mm with the Ultimaker for a very fast print at a very low quality.
@@ -30,7 +30,7 @@ This thickness is of the outside shell in the horizontal direction. This is used
 #### Enable Retraction
 This allows for the filament to be retracted when the nozzle is moving over a ‘none-printed’ area. More details about the retraction can be configured in the advanced tab. 
 
-### Fill
+### Fill:
 
 #### Bottom/Top Thickness (mm)
 This controls the thickness of the bottom and top layers, the amount of solid layers put down is calculated by the layer thickness and this value. Having a value a multiple of the layer thickness make sense. And keep it near your wall thickness to make an evenly strong part.
@@ -55,4 +55,10 @@ This is where you will choose between no platform adhesion, a brim platform adhe
 You are able to view your model in a variety of ways including: normal, overhang, transparent, x-ray, and layers. To switch between these options click the icon located in the top right corner of the of the program (see image to the right). 
 
 ## Save Model
-To save your model you can either go to File → Save GCode, or you can click the floppy disk save icon (Save toolpath option) in the top left corner of the screen (see image below). If you have the SD card plugged into the computer, the ‘save toolpath’ option will automatically save the model to that location. 
+To save your model you can either go to File → Save GCode, or you can click the floppy disk save icon (Save toolpath option) in the top left corner of the screen (see image below). If you have the SD card plugged into the computer, the ‘save toolpath’ option will automatically save the model to that location.
+
+## How to Print on Ultimaker:
+
+### Printing:
+- Plug SD card with .gcode file of the object
+- Turn on Ulitmaker printer. Switch is on the back left corner.
