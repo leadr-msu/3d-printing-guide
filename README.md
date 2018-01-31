@@ -62,3 +62,59 @@ To save your model you can either go to File → Save GCode, or you can click th
 ### Printing:
 1. Plug SD card with .gcode file of the object
 1. Turn on Ulitmaker printer. Switch is on the back left corner.
+1. Confirm that filament is inserted into the printer.
+1. If you want to use glue on the glass plate, do that now.
+1. To print, scroll using the round controller to the print option and press the controller. This will open a new screen that will list the .gcode files. Your most recent file will most likely be at the end of the list.
+
+NOTE: It is possible to remove or add the SD card while the printer is on, as long as it isn't currently trying to access that card, such as by being currently printed or displaying the SD card contents. 
+
+#### Printer Display and Controller:
+https://ultimaker.com/en/resources/147-display-and-controller
+
+#### Inserting New Filament Material:
+https://ultimaker.com/en/resources/145-loading-filament
+
+#### Changing Filament:
+https://ultimaker.com/en/resources/16955-changing-filament
+
+#### Using Glue:
+https://ultimaker.com/en/resources/16968-using-glue
+
+#### Calibrating the Printer:
+https://ultimaker.com/en/resources/146-calibration
+
+### Maintenance:
+
+#### Cleaning the Glass Plate:
+https://ultimaker.com/en/resources/152-cleaning-the-glass-plate
+
+#### The Feeder:
+https://ultimaker.com/en/resources/151-the-feeder
+
+#### Lubricating the Axles:
+https://ultimaker.com/en/resources/150-lubricating-the-axles
+
+#### Unclogging Nozzle- Atomic Method:
+https://ultimaker.com/en/resources/149-atomic-method
+
+### Troubleshooting:
+
+#### Extrusion Problems:
+https://ultimaker.com/en/resources/11704-extrusion-problems
+
+#### Error Messages:
+https://ultimaker.com/en/resources/160-error-messages
+
+#### Can’t Update Firmware:
+https://ultimaker.com/en/resources/159-cant-update-firmware
+
+#### Print not sticking to build plate:
+https://ultimaker.com/en/resources/158-print-not-sticking-to-build-plate
+
+## Common Issues and Adjustment Suggestions:
+
+### Raft vs. No Raft vs. Brim? 
+An issue that can arise when printing 3D models. How secure of a base does the model need? Depending on this, you can decide which base to print. If the print needs a lot of security/stability, choose the raft option. Additionally, a raft can make up for any unevenness in the buildplate’s level.
+
+Jammed nozzle →  Refer to the Atomic Method
+
