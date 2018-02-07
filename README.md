@@ -1,6 +1,6 @@
 # 3D Printing Guide
 
-By: Autumn Painter and Brian Geyer
+Created by Autumn Painter and Brian Geyer
 
 ## Open 'Cura'
 This is where you will adjust the size and orientation of your model for printing. 
