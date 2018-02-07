@@ -12,25 +12,22 @@ When you have your object selected, three icons in the bottom left corner will a
 ### Rotate
 The bottom left icon is for rotate. The top option allows you to have ‘Cura’ automatically lay your object flat. This will assist in the printing process. You can also manually adjust the orientation of the object with the three adjustment circles that appear. Normally it allows you to adjust in 15 degree increments, but if you press ‘shift’ while rotating, you can rotate at 1 degree increments. 
 
-<img src="img/image2.png" width="40%"> 
-<img src="img/image3.png" width="40%"> 
+<img src="img/image2.png" width="40%"> <img src="img/image3.png" width="40%"> 
 
 ### Scale
 The center bottom icon is for scaling your object. You can either adjust the size of your object based on millimeter measurements or by manualing dragging the scale bar axis (x, y, z) options. You also have the options to have ‘Cura’ scale your object to the largest maximum size to print. 
 
-<img src="img/image4.png" width="40%"> 
-<img src="img/image5.png" width="40%"> 
+<img src="img/image4.png" width="40%"> <img src="img/image5.png" width="40%"> 
 
 ### Mirror
 This option will allow you to automatically flip your object (i.e. mirror) your object along either the X, Y, or Z axis. 
 
-<img src="img/image6.png" width="40%"> 
+<img src="img/image6.png" width="20%"> 
 
 ## Adjusting the Print File
 Within the toolbox on the left side of the screen, you are able to adjust many different options that will affect the print quality, fill, speed, and temperature. 
 
-<img src="img/image7.png" width="40%"> 
-<img src="img/image8.png" width="40%"> 
+<img src="img/image7.png" width="40%"> <img src="img/image8.png" width="40%"> 
 
 ### Quality:
 
