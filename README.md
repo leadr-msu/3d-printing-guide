@@ -7,6 +7,8 @@ First you need to load a .obj file (this is the finished model product). Your mo
 
 When you have your object selected, three icons in the bottom left corner will appear: Rotate, Scale, and Mirror
 
+<img src="image/image1.png" width="80%"> 
+
 ### Rotate
 The bottom left icon is for rotate. The top option allows you to have ‘Cura’ automatically lay your object flat. This will assist in the printing process. You can also manually adjust the orientation of the object with the three adjustment circles that appear. Normally it allows you to adjust in 15 degree increments, but if you press ‘shift’ while rotating, you can rotate at 1 degree increments. 
 
