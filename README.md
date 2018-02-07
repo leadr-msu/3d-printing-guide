@@ -64,7 +64,7 @@ This is where you will choose between no platform adhesion, a brim platform adhe
 ## View Mode
 You are able to view your model in a variety of ways including: normal, overhang, transparent, x-ray, and layers. To switch between these options click the icon located in the top right corner of the of the program (see image). 
 
-<img src="img/image9.png" width="80%"> 
+<img src="img/image9.png" width="20%"> 
 
 ## Save Model
 To save your model you can either go to File → Save GCode, or you can click the floppy disk save icon (Save toolpath option) in the top left corner of the screen (see image below). If you have the SD card plugged into the computer, the ‘save toolpath’ option will automatically save the model to that location.
