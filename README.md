@@ -36,6 +36,8 @@ Within the toolbox on the left side of the screen, you are able to adjust many d
 #### Layer Height (mm)
 This is the most important setting for determining the quality of your print. Normal quality prints are 0.1 mm, high quality prints are 0.06 mm. You can go up to 0.25 mm with the Ultimaker for a very fast print at a very low quality.
 
+Note: some guides or publications report layer heights in microns. 1 mm is 1000 microns, so 0.1 mm is 100 microns and 0.06 mm is 60 microns. Ultimaker claims that our printer, using the 0.4 mm nozzle we leave installed in our printer, can achieve a 20-micron layer height resolution. For more information, see [Ultimaker's specifications for their 2+ line](https://ultimaker.com/en/products/ultimaker-2-plus/specifications).
+
 #### Shell Thickness (mm)
 This thickness is of the outside shell in the horizontal direction. This is used in combination with the nozzle size to define the number of perimeter lines and the thickness of those perimeter lines. 
 
