@@ -137,4 +137,4 @@ An issue that can arise when printing 3D models. How secure of a base does the m
 Jammed nozzle →  Refer to the Atomic Method
 
 ----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/resources)
