@@ -87,47 +87,47 @@ To save your model you can either go to File → Save GCode, or you can click th
 NOTE: It is possible to remove or add the SD card while the printer is on, as long as it isn't currently trying to access that card, such as by being currently printed or displaying the SD card contents. 
 
 #### Printer Display and Controller:
-https://ultimaker.com/en/resources/147-display-and-controller
+[https://ultimaker.com/en/resources/147-display-and-controller](https://ultimaker.com/en/resources/147-display-and-controller)
 
 #### Inserting New Filament Material:
-https://ultimaker.com/en/resources/145-loading-filament
+[https://ultimaker.com/en/resources/145-loading-filament](https://ultimaker.com/en/resources/145-loading-filament)
 
 #### Changing Filament:
-https://ultimaker.com/en/resources/16955-changing-filament
+[https://ultimaker.com/en/resources/16955-changing-filament](https://ultimaker.com/en/resources/16955-changing-filament)
 
 #### Using Glue:
-https://ultimaker.com/en/resources/16968-using-glue
+[https://ultimaker.com/en/resources/16968-using-glue](https://ultimaker.com/en/resources/16968-using-glue)
 
 #### Calibrating the Printer:
-https://ultimaker.com/en/resources/146-calibration
+[https://ultimaker.com/en/resources/146-calibration](https://ultimaker.com/en/resources/146-calibration)
 
 ### Maintenance:
 
 #### Cleaning the Glass Plate:
-https://ultimaker.com/en/resources/152-cleaning-the-glass-plate
+[https://ultimaker.com/en/resources/152-cleaning-the-glass-plate](https://ultimaker.com/en/resources/152-cleaning-the-glass-plate)
 
 #### The Feeder:
-https://ultimaker.com/en/resources/151-the-feeder
+[https://ultimaker.com/en/resources/151-the-feeder](https://ultimaker.com/en/resources/151-the-feeder)
 
 #### Lubricating the Axles:
-https://ultimaker.com/en/resources/150-lubricating-the-axles
+[https://ultimaker.com/en/resources/150-lubricating-the-axles](https://ultimaker.com/en/resources/150-lubricating-the-axles)
 
 #### Unclogging Nozzle- Atomic Method:
-https://ultimaker.com/en/resources/149-atomic-method
+[https://ultimaker.com/en/resources/149-atomic-method](https://ultimaker.com/en/resources/149-atomic-method)
 
 ### Troubleshooting:
 
 #### Extrusion Problems:
-https://ultimaker.com/en/resources/11704-extrusion-problems
+[https://ultimaker.com/en/resources/11704-extrusion-problems](https://ultimaker.com/en/resources/11704-extrusion-problems)
 
 #### Error Messages:
-https://ultimaker.com/en/resources/160-error-messages
+[https://ultimaker.com/en/resources/160-error-messages](https://ultimaker.com/en/resources/160-error-messages)
 
 #### Can’t Update Firmware:
-https://ultimaker.com/en/resources/159-cant-update-firmware
+[https://ultimaker.com/en/resources/159-cant-update-firmware](https://ultimaker.com/en/resources/159-cant-update-firmware)
 
 #### Print not sticking to build plate:
-https://ultimaker.com/en/resources/158-print-not-sticking-to-build-plate
+[https://ultimaker.com/en/resources/158-print-not-sticking-to-build-plate](https://ultimaker.com/en/resources/158-print-not-sticking-to-build-plate)
 
 ## Common Issues and Adjustment Suggestions:
 
