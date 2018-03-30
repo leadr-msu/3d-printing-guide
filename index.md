@@ -1,6 +1,6 @@
 # 3D Printing Guide
 
-Created by Autumn Painter and Brian Geyer
+Created by Autumn Painter and Brian Samuel Geyer
 
 ## Open 'Cura'
 This is where you will adjust the size and orientation of your model for printing. 
@@ -136,5 +136,5 @@ An issue that can arise when printing 3D models. How secure of a base does the m
 
 Jammed nozzle →  Refer to the Atomic Method
 
-----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
+-----
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
